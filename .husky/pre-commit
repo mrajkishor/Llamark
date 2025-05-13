@@ -1,0 +1,13 @@
+# #!/bin/sh
+
+# echo "🚀 Running pre-commit: Injecting data-trackid..."
+
+# FILES=$(git diff --cached --name-only --diff-filter=ACM | grep '\.jsx\?$')
+
+# if [ -z "$FILES" ]; then
+#   echo "⛔ No JSX files to process."
+#   exit 0
+# fi
+
+# node ./scripts/trackid-injector.js $FILES
+# git add $FILES
