@@ -81,8 +81,8 @@ Or fallback:
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/mrajkishor/data-trackid-injector.git
-cd data-trackid-injector
+git clone https://github.com/mrajkishor/Llamark.git
+cd Llamark
 ```
 
 ### 2. Install Node Modules
